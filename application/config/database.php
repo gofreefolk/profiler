@@ -36,8 +36,8 @@
 
 // The following values will probably need to be changed.
 $db['default']['username'] = "root";
-$db['default']['password'] = "";
-$db['default']['database'] = "profileme_db";
+$db['default']['password'] = "123456789";
+$db['default']['database'] = "gff_profile";
 
 // The following values can probably stay the same.
 $db['default']['hostname'] = "localhost";
